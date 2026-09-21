@@ -37,26 +37,26 @@ The project was built to solve a simple problem:
 
 ### Dashboard
 
-`<img width="1861" height="861" alt="image" src="https://github.com/user-attachments/assets/4bfe14d0-a1a0-440e-8d90-838579e8fc1a" />
-`
+<img width="1861" height="861" alt="image" src="https://github.com/user-attachments/assets/4bfe14d0-a1a0-440e-8d90-838579e8fc1a" />
+
 
 ### Practice & Code Lab
 
-`<img width="1786" height="865" alt="image" src="https://github.com/user-attachments/assets/4475d555-8c7b-4f05-8258-53d99b4fe9bd" />
-`
+<img width="1786" height="865" alt="image" src="https://github.com/user-attachments/assets/4475d555-8c7b-4f05-8258-53d99b4fe9bd" />
+
 
 ### Exam Mode
 
-`<img width="1787" height="855" alt="image" src="https://github.com/user-attachments/assets/2620e856-8f97-43ef-af49-f5d446beccfa" />
-`
+<img width="1787" height="855" alt="image" src="https://github.com/user-attachments/assets/2620e856-8f97-43ef-af49-f5d446beccfa" />
+
 
 ### Progress & Weakness Detection
 
-`<img width="1770" height="702" alt="image" src="https://github.com/user-attachments/assets/a5813043-5caf-4bfb-b7a3-45ac7f3e52e6" />
-`
+<img width="1770" height="702" alt="image" src="https://github.com/user-attachments/assets/a5813043-5caf-4bfb-b7a3-45ac7f3e52e6" />
+
 
 ### Screen Recording
-`https://github.com/user-attachments/assets/1676601f-f930-47cb-935f-5f2c2fbf83bd`
+https://github.com/user-attachments/assets/1676601f-f930-47cb-935f-5f2c2fbf83bd
 
 ---
 
