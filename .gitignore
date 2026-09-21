@@ -1,0 +1,11 @@
+# Local runtime data -- never commit your own progress/history or secrets.
+backend/study.db
+backend/server.log
+backend/server.pid
+backend/__pycache__/
+**/__pycache__/
+*.pyc
+
+# OS cruft
+.DS_Store
+Thumbs.db

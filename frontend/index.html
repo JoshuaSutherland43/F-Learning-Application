@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>F# Exam Prep</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div id="toast-root" class="toast-root"></div>
+
+<div class="shell">
+  <aside class="sidebar">
+    <div class="brand">
+      <div class="brand-mark">F#</div>
+      <div class="brand-text">
+        <div class="brand-title">Exam Prep</div>
+        <div class="brand-sub">WHQV401</div>
+      </div>
+    </div>
+    <nav class="nav" id="main-nav">
+      <a href="#/dashboard" data-route="dashboard"><span class="nav-icon">&#9737;</span>Dashboard</a>
+      <a href="#/learn" data-route="learn"><span class="nav-icon">&#128214;</span>Learn</a>
+      <a href="#/practice" data-route="practice"><span class="nav-icon">&#9998;</span>Practice</a>
+      <a href="#/drill" data-route="drill"><span class="nav-icon">&#9889;</span>Drill</a>
+      <a href="#/weaknesses" data-route="weaknesses"><span class="nav-icon">&#9888;</span>Weaknesses</a>
+      <a href="#/exam" data-route="exam"><span class="nav-icon">&#8987;</span>Exam</a>
+      <a href="#/review" data-route="review"><span class="nav-icon">&#128269;</span>Review</a>
+      <a href="#/explore" data-route="explore"><span class="nav-icon">&#128172;</span>Explore</a>
+      <a href="#/codelab" data-route="codelab"><span class="nav-icon">&#9000;</span>Code Lab</a>
+    </nav>
+    <div class="sidebar-footer">
+      <div class="legend">
+        <div class="legend-item"><span class="badge badge-core">Official</span></div>
+        <div class="legend-item"><span class="badge badge-legacy">Legacy</span></div>
+        <div class="legend-item"><span class="badge badge-supplementary">Supplementary</span></div>
+      </div>
+    </div>
+  </aside>
+
+  <main class="content" id="app">
+    <div class="loading-shell">Loading&hellip;</div>
+  </main>
+</div>
+
+<script src="api.js"></script>
+<script src="markdown.js"></script>
+<script src="components.js"></script>
+<script src="router.js"></script>
+<script src="views/dashboard.js"></script>
+<script src="views/learn.js"></script>
+<script src="views/practice.js"></script>
+<script src="views/exam.js"></script>
+<script src="views/review.js"></script>
+<script src="views/explore.js"></script>
+<script src="views/codelab.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
